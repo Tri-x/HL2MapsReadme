@@ -1,0 +1,176 @@
+Half-Life 2
+Left 4 Dead 2 Third Party Map
+
+Half Life 2 Game Introduction:
+Due to the influence of the Black Mesa Research Facility Base Event, the high-tech evil alien colonial forces of the multi-dimensional space Empire invaded the earth, and all mankind was forced to submit to the rule of the Star Union Army. Players play the leading role Gordon Freeman again, which will lead mankinds to overthrow the tyranny of the coalition forces.
+
+Half Life 2 Map Introduction:
+This map is based on Half-Life2,complete transplant into Left 4 Dead 2 .Because the content of the two games is different, the author has partially modified maps.
+
+Map Name: Half Life 2
+Author: LilSaint
+Pure map size: 1.81G
+Module size: 2.68G
+Total file size: 4.50G
+Compressed Packet Size: 1.56G
+Total length of map games: about 10 hours
+Number of map Levels: 66
+Map type: cooperation
+Map preview: www.bilibili.com/video/av625822
+Download address:
+(The author uploaded only the following sites.Addresses will be updated one after another.)
+Orange Web: http*
+Workshop: http*
+Gamemaps: http*
+Tianyi Cloud:https://cloud.189.cn/t/6num2yfQJ3a2
+Baidu Cloud:https://pan.baidu.com/s/1dCkmunogb9ialEkoU4O3cA
+	password：yjq3
+GitHub: http*
+
+
+FAQ (Read carefully):
+Q: What are the files in the compressed package?
+A: The [left4dead2] folder is a map file and the [backup] folder is a backup file.
+
+Q: Why do maps pack in this way?
+A: Because the map is too large, normal packing will cause anomalies.
+
+Q: How to install maps?
+A: Map installation method:
+1. Unzip the [left4dead2] folder in the Half-Life2.7Z zip package into the root directory of your game and replace some files.
+For example, X: Steam Steamapps common Left 4 Dead 2\
+This installation method will not destroy the game! Don't worry.
+Replaced files do not affect the game, nor do you have to worry about them.
+
+Q:how to delete it?
+A: Map deletion method:
+1. Delete X: Steam Steamapps common Left 4 Dead 2 left 4 dead 2\
+[model], [materials], [particles] three folders
+2. Delete the hl2_maps_1 to 33.vpk, hl2_maps_34to 66.vpk, hl2_sound.vpk files in X: Steam steamapps common Left 4 Dead 2 left4dead2\ addons.
+3. [left4dead2] folder in [backup] folder in Half-Life2.7Z compressed package
+Unzip to the root directory of your game.
+For example, X: Steam Steamapps common Left 4 Dead 2\
+This deletion method will not destroy the game! Don't worry.
+
+Q: What is the [left4dead2] folder in the compressed package?
+A: The hl2_maps_1 to 33.vpk in left4dead2 addons is the level 1 to 33 in the map.Hl2_maps_34to66.vpk is the 34-66 level in the map, hl2_sound.vpk is the audio file of the map, and other files in left4dead2 are the necessary patch files of the map.
+
+Q: Can the Map Material Pack on the Internet be replaced now?
+A: No. It's not comprehensive.
+
+Q: Aren't there any previous checkpoints on the Internet now? Why do we have to do it again?
+A: The author wants to replicate half a life from beginning to end.
+
+Q: Are the checkpoints in front of this map the same as those on the Internet?
+A: Not the same. There are differences.
+
+Q: What should we pay attention to when playing maps?
+A: 1. The map is too long to finish all at once.
+2. The map is very large and slow to load. Please wait patiently.
+3. When playing with this map, please delete other maps and patches related to half-life to prevent map conflicts!
+4. It is recommended that multiple players be combined without AI. Due to the limitation of the original game map of Half Life 2, some AI levels will be unsatisfactory.
+5. Some of the levels, some computers will display game crash. Please try to remove mod/audio/picture/map or other mods to prevent conflicts.
+6. Pay attention to the English tips in the chat box in the lower left corner of the game.
+7. At some levels, the resurrection at the next level will be born in a strange position. Please idle to teleport yourself to your teammates.
+8. Most of the routes are guided by arrows, even if you haven't played half of the original life 2, you can find the way.
+9. In order not to affect the plot experience,when level 62,65,mouse shake, in order to avoid idle.
+
+Command to start the map:
+Format:map ***(***means the level code)
+The map code for each level is as follows:
+Chapter 1(Insert Point):
+Level 1: d1_trainstation_01_d
+Level 2: d1_trainstation_02_d
+Level 3: d1_trainstation_03_d
+Level 4: d1_trainstation_04_d
+Chapter 2(Good day):
+Level 5: d1_trainstation_05_d
+Level 6: d1_trainstation_06_d
+Chapter 3(Canal Channel):
+Level 7: d1_canals_01_d
+Level 8: d1_canals_01a_d
+Level 9: d1_canals_02_d
+Level 10: d1_canals_03_d
+Level 11: d1_canals_05_d
+Chapter 4(Water Hazard):
+Level 12: d1_canals_06_d
+Level 13: d1_canals_07_d
+Level 14: d1_canals_08_d
+Level 15: d1_canals_09_d
+Level 16: d1_canals_10_d
+Level 17: d1_canals_11_d
+Level 18: d1_canals_12_d
+Level 19: d1_canals_13_d
+Chapter 5(Eastern District of Heishan Base):
+Level 20: d1_eli_01_d
+Level 21: d1_eli_02_d
+Chapter 6(We do not go to Ravenholm):
+Level 22: d1_town_01_d
+Level 23: d1_town_01a_d
+Level 24: d1_town_02_d
+Level 25: d1_town_02a_d
+Level 26: d1_town_04_d
+Level 27: d1_town_05_d 
+Chapter 7(Highway 17):
+Level 28: d2_coast_01_d
+Level 29: d2_coast_03_d
+Level 30: d2_coast_04_d
+Level 31: d2_coast_05_d
+Level 32: d2_coast_07_d
+Chapter 8(Sand trap):
+Level 33: d2_coast_09_d
+Level 34: d2_coast_10_d
+Level 35: d2_coast_11_d
+Level 36: d2_coast_12_d
+Level 37: d2_prison_01_d
+Chapter 9(Nova Mine):
+Level 38: d2_prison_02_d
+Level 39: d2_prison_03_d
+Level 40: d2_prison_04_d
+Level 41: d2_prison_05_d
+Chapter 10(Implicated equipment):
+Level 42: d2_prison_06_d
+Level 43: d2_prison_07_d
+Level 44: d2_prison_08_d
+Level 45: d3_c17_01_d
+Chapter 11(Rebel No.1):
+Level 46: d3_c17_02_d
+Level 47: d3_c17_03_d
+Level 48: d3_c17_04_d
+Level 49: d3_c17_05_d
+Level 50: d3_c17_06a_d
+Level 51: d3_c17_06b_d
+Level 52: d3_c17_07_d
+Level 53: d3_c17_08_d
+Chapter 12(Follow Freeman):
+Level 54: d3_c17_09_d
+Level 55: d3_c17_10a_d
+Level 56: d3_c17_10b_d
+Level 57: d3_c17_11_d
+Level 58: d3_c17_12_d
+Level 59: d3_c17_12b_d
+Level 60: d3_c17_13_d
+Chapter 13(Our benefactor):
+Level 61: d3_citadel_01_d
+Level 62: d3_citadel_02_d
+Level 63: d3_citadel_03_d
+Level 64: d3_citadel_04_d
+Level 65: d3_citadel_05_d
+Chapter 14(Dark energy):
+Level 66: d3_breen_01_d
+
+Notes:
+1. (Server/Map Change Plug-in/Online Software can skip this) Left 4 Dead 2 only can display 15 levels, So 16-33 levels and 49-66 levels can not be selected. Players without Server/Map Change Plug-in/Online Software should plan the time (33 levels about 6 hours).
+Of course, it is suggested to go to the next plug-in to change the diagram:
+Https://tieba.baidu.com/p/5420191211?Pid=114983446748&cid=&red_tag=1729346763
+2. Because of engine limitation, most of the levels can not be merged. So some of them will be too long/too short.
+3. Because of the different games, the author made some modifications to the original game map.
+4.Command nb_delete_all at some levels will can not pass, which can only be restarted this level.
+5. If the game crash, remove mods to avoid mod conflicts.
+
+
+Remarks:
+1. At present, there are two materials missing from the map. The author has tried many times and can't solve them. Maybe they will be repaired when the subsequent version is updated.
+V.1.0
+By Lil Saint
+2019.08.13
