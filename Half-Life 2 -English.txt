@@ -1,4 +1,4 @@
-Half-Life 2
+﻿Half-Life 2
 Left 4 Dead 2 Third Party Map
 
 Half Life 2 Game Introduction:
@@ -8,52 +8,57 @@ Half Life 2 Map Introduction:
 This map is based on Half-Life2,complete transplant into Left 4 Dead 2 .Because the content of the two games is different, the author has partially modified maps.
 
 Map Name: Half Life 2
+Version: 2.0
 Author: LilSaint
-Pure map size: 1.81G
+Pure map size: 1.88G
 Module size: 2.68G
-Total file size: 4.50G
-Compressed Packet Size: 1.56G
+Total file size: 4.56G
+Compressed Packet Size: 1.57G
 Total length of map games: about 10 hours
 Number of map Levels: 66
 Map type: cooperation
-Map preview: www.bilibili.com/video/av625822
+Map preview: https://www.bilibili.com/video/av62585822
 Download address:
 (The author uploaded only the following sites.Addresses will be updated one after another.)
 Orange Web: http*
 Workshop: http*
 Gamemaps: http*
-Tianyi Cloud:https://cloud.189.cn/t/6num2yfQJ3a2
-Baidu Cloud:https://pan.baidu.com/s/1dCkmunogb9ialEkoU4O3cA
-	password：yjq3
+Tianyi Cloud:https://cloud.189.cn/t/6zqE32AVnEBb
+Baidu Cloud:https://pan.baidu.com/s/1mIr5oJtP9c1Vm_GH223RgA password：ny2i
 GitHub: http*
 
 
 FAQ (Read carefully):
+Q: Why not re-edit Half-Life 1 first?
+
+
+A: 1.The author hasn't played Half-Life 1 yet.
+   
+
+2.The materials and models of Half-Life 1 is vague and the development engine version is too old to re-edit.
+
+So the effect is not      great.
+
+
+
+Q: Will you continue to re-edit the half-life Series in the future?
+
+
+A: 75% will.
+
 Q: What are the files in the compressed package?
-A: The [left4dead2] folder is a map file and the [backup] folder is a backup file.
 
-Q: Why do maps pack in this way?
-A: Because the map is too large, normal packing will cause anomalies.
 
-Q: How to install maps?
-A: Map installation method:
-1. Unzip the [left4dead2] folder in the Half-Life2.7Z zip package into the root directory of your game and replace some files.
-For example, X: Steam Steamapps common Left 4 Dead 2\
-This installation method will not destroy the game! Don't worry.
-Replaced files do not affect the game, nor do you have to worry about them.
+A: hl2_maps_1to33.vpk is the level 1-33 in the map.
 
-Q:how to delete it?
-A: Map deletion method:
-1. Delete X: Steam Steamapps common Left 4 Dead 2 left 4 dead 2\
-[model], [materials], [particles] three folders
-2. Delete the hl2_maps_1 to 33.vpk, hl2_maps_34to 66.vpk, hl2_sound.vpk files in X: Steam steamapps common Left 4 Dead 2 left4dead2\ addons.
-3. [left4dead2] folder in [backup] folder in Half-Life2.7Z compressed package
-Unzip to the root directory of your game.
-For example, X: Steam Steamapps common Left 4 Dead 2\
-This deletion method will not destroy the game! Don't worry.
 
-Q: What is the [left4dead2] folder in the compressed package?
-A: The hl2_maps_1 to 33.vpk in left4dead2 addons is the level 1 to 33 in the map.Hl2_maps_34to66.vpk is the 34-66 level in the map, hl2_sound.vpk is the audio file of the map, and other files in left4dead2 are the necessary patch files of the map.
+   hl2_maps_34to66.vpk is the 34-66 level in the map.
+
+
+   hl2_sound.vpk is a necessary audio file for maps.
+   
+
+hl2_patches_*.vpk is a necessary patch file for maps.
 
 Q: Can the Map Material Pack on the Internet be replaced now?
 A: No. It's not comprehensive.
@@ -68,10 +73,10 @@ Q: What should we pay attention to when playing maps?
 A: 1. The map is too long to finish all at once.
 2. The map is very large and slow to load. Please wait patiently.
 3. When playing with this map, please delete other maps and patches related to half-life to prevent map conflicts!
-4. It is recommended that multiple players be combined without AI. Due to the limitation of the original game map of Half Life 2, some AI levels will be unsatisfactory.
-5. Some of the levels, some computers will display game crash. Please try to remove mod/audio/picture/map or other mods to prevent conflicts.
+4. It is recommended that multiple players be combined without AI. Due to the limitation of the original game map of Half Life 2,    some AI levels will be unsatisfactory.
+5. Some of the levels, some computers will display game crash. Please try to remove mod/audio/picture/map or other mods to prevent    conflicts.
 6. Pay attention to the English tips in the chat box in the lower left corner of the game.
-7. At some levels, the resurrection at the next level will be born in a strange position. Please idle to teleport yourself to your teammates.
+7. At some levels, the resurrection at the next level will be born in a strange position. Please idle to teleport yourself to your    teammates.
 8. Most of the routes are guided by arrows, even if you haven't played half of the original life 2, you can find the way.
 9. In order not to affect the plot experience,when level 62,65,mouse shake, in order to avoid idle.
 
@@ -168,9 +173,23 @@ Https://tieba.baidu.com/p/5420191211?Pid=114983446748&cid=&red_tag=1729346763
 4.Command nb_delete_all at some levels will can not pass, which can only be restarted this level.
 5. If the game crash, remove mods to avoid mod conflicts.
 
+V.2.0 Update Log:
+
+
+1. Repair bugs that the author knows and can repaired.
+
+
+2. Adjust the method of map encapsulation (special thanks: 嘤喵).
+
+
+3. Solve known causes of game crashes which can be solved (especially thanks: Missed, 光).
+
+
+4. Fine adjustment of some levels.
 
 Remarks:
 1. At present, there are two materials missing from the map. The author has tried many times and can't solve them. Maybe they will be repaired when the subsequent version is updated.
-V.1.0
-By Lil Saint
-2019.08.13
+
+V.2.0
+By LilSaint
+2019.09.12
