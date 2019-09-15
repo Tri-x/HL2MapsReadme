@@ -18,33 +18,45 @@
 地图关卡数:66关
 地图类型:合作
 地图预览:https://www.bilibili.com/video/av62585822
+
 下载地址:
 (作者本人只上传了以下站点,其它下载地址均为转载)
-　　橙子网:http*
-	Workshop:http*
-	Gamemaps:http*
-百度网盘:链接：pan.baidu.com/s/1mIr5oJtP9c1Vm_GH223RgA 提取码：ny2i
-天翼云:https://cloud.189.cn/t/6zqE32AVnEBb
-   GitHub:http*
+天翼云:
+	https://cloud.189.cn/t/6zqE32AVnEBb
+百度云:
+	https://pan.baidu.com/s/1mIr5oJtP9c1Vm_GH223RgA Password：ny2i
+Gamemaps(Only VPK):
+	https://www.gamemaps.com/details/21597
+	https://www.gamemaps.com/details/21765
+Workshop(Only Readme):
+	https://steamcommunity.com/sharedfiles/filedetails/?id=1861579537
+GitHub(Only Readme):
+	https://github.com/Tonymot/HL2MapsReadme
 
 FAQ(仔细阅读):
 问:为什么不先复刻半条命1?
 答:1.作者还未玩过半条命1.
 2.半条命1的材质 模型较为模糊 及开发引擎版本过于古老 复刻至求生之路
 效果不佳.
+
 问:以后会继续复刻半条命系列吗?
 答:75%会的.
+
 问:压缩包里的文件分别是什么?
 答:hl2_maps_1to33.vpk是地图中的1~33关,
 　hl2_maps_34to66.vpk是地图中的34~66关,
   hl2_sound.vpk是地图必备的音频文件,
 hl2_patches_*.vpk是地图必备的补丁文件.
+
 问:现在网络上的地图材质包可以代替吗?
 答:不可以.因为它不全面.
+
 问:现在网络上不是已经有前面的关卡了吗?为什么还要再做一遍?
 答:作者想从头到尾完整复刻半条命2,完整体验.
+
 问:这个地图前面的关卡和网上的是一样的吗?
 答:不一样.有差异.
+
 问:玩地图时应该注意什么?
 答: 1.地图很长,很难一次性肝完.
    2.地图很大,加载很慢,请耐心等待.
